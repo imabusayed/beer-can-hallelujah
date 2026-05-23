@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Beer Can Hallelujah
+
+This log tracks the cryptographic history and versioning for the song **Beer Can Hallelujah** (beer-can-hallelujah).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T14:51:16.446056 | `v1` | `e09b4dbab331db54ca932e7d6d59438dae38b9a01d763c46d2bc2f5df82fd713` | `8f1062799f6b1ac475290ae48b1709bc05244750cf5713c42e91f78953f7e5f5` | `2026-05-23_beer-can-hallelujah-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
