@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beer-can-hallelujah/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Beer Can Hallelujah](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beer-can-hallelujah/) |
+| **Get License** | [Get License For Beer Can Hallelujah](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beer-can-hallelujah/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1969)
 
 ---
 
