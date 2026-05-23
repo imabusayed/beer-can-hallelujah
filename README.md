@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beer-can-hallelujah/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Beer Can Hallelujah](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beer-can-hallelujah/) |
+| **Get License** | [Request Licensing for Beer Can Hallelujah](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beer-can-hallelujah/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I pop the top and the engine dies
+> I see the fire in your hazel eyes
+> A tailgate bed and a starry sky
+> My beer can hallelujah, you and I
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
